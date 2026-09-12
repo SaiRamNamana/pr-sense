@@ -1,0 +1,10 @@
+target/
+.git/
+.gitignore
+.idea/
+*.iml
+*.pem
+.env
+../Dockerfile
+README.md
+src/main/resources/*.pem
